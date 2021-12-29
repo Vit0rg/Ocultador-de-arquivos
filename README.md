@@ -6,7 +6,7 @@
 > Todas as funções possuem feedbak.
 > Alguns formatos de arquivo não são suportados.
 
-### Funções:
+## Funções:
 
   > Criação:
   Abre arquivo 1, copia no arquivo alvo,  fecha arquivo 1, adiciona <SEPARADOR> .
@@ -23,7 +23,7 @@
   Se <SEPARADOR> é encontrado, fecha arquivo 1, abre arquivo 2, salva restante do conteúdo, fecha arquivo 2, fecha arquivo alvo.
 
 
-### Futuras atualizações:
+## Futuras atualizações:
 >Otimização geral, reduzindo a quantidade de repetições de linhas no código.
   
 >Introdução do uso de alocação dinâmica de memória.
