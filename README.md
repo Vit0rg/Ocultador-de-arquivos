@@ -3,7 +3,7 @@
 ## Programa simples para ocultação de arquivos (imagens, textos, áudios) em outros arquivos, de preferência imagens.
 
 > Atualmente suportado apenas em distribuições Linux devido a limitações de arquitetura.
-> Todas as funções possuem feedbak.
+> Todas as funções possuem feedback.
 > Alguns formatos de arquivo não são suportados.
 
 ## Funções:
